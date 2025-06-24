@@ -86,16 +86,17 @@ The platform serves two main purposes:
 ```bash
 git clone https://github.com/Harsha-v-r/OmSaiEnterprises.git
 cd OmSaiEnterprises
-
+```
+```bash
 npm install
-
+```
 MONGODB_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
 ADMIN_EMAIL=admin@example.com
 ADMIN_PASSWORD=securepassword
-
+```bash
 npm run dev
-
+```
 Open http://localhost:3000
 
 🧪 Future Enhancements
