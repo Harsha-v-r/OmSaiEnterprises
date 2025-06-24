@@ -83,20 +83,27 @@ The platform serves two main purposes:
 
 ## ⚙️ Installation & Setup
 
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/Harsha-v-r/OmSaiEnterprises.git
 cd OmSaiEnterprises
 ```
+### 2. Install Dependencies
 ```bash
 npm install
 ```
+### 3. Create .env.local File
+
 MONGODB_URI=your_mongo_connection_string <br>
 JWT_SECRET=your_jwt_secret<br>
 ADMIN_EMAIL=admin@example.com<br>
 ADMIN_PASSWORD=securepassword<br>
+
+### 4. Run Locally
 ```bash
 npm run dev
 ```
+
 Open http://localhost:3000
 
 🧪 Future Enhancements
