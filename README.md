@@ -90,10 +90,10 @@ cd OmSaiEnterprises
 ```bash
 npm install
 ```
-MONGODB_URI=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret
-ADMIN_EMAIL=admin@example.com
-ADMIN_PASSWORD=securepassword
+MONGODB_URI=your_mongo_connection_string <br>
+JWT_SECRET=your_jwt_secret<br>
+ADMIN_EMAIL=admin@example.com<br>
+ADMIN_PASSWORD=securepassword<br>
 ```bash
 npm run dev
 ```
