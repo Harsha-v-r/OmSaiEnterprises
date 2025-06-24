@@ -66,18 +66,18 @@ The platform serves two main purposes:
 
 ## 🗂️ Folder Structure (Simplified)
 
-/app
-/api
-/auth
-/products
-/orders
-/components
-/lib
-/models
-/pages
-/public
-/styles
-/utils
+/app<br>
+/api<br>
+/auth<br>
+/products<br>
+/orders<br>
+/components<br>
+/lib<br>
+/models<br>
+/pages<br>
+/public<br>
+/styles<br>
+/utils<br>
 
 
 
